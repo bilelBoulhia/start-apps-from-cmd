@@ -1,0 +1,12 @@
+C:\Users\Origin Systems\RiderProjects\start-from-command\start-from-command\bin\Debug\start_from_command.exe.config
+C:\Users\Origin Systems\RiderProjects\start-from-command\start-from-command\bin\Debug\start_from_command.exe
+C:\Users\Origin Systems\RiderProjects\start-from-command\start-from-command\bin\Debug\start_from_command.pdb
+C:\Users\Origin Systems\RiderProjects\start-from-command\start-from-command\obj\Debug\start-from-command.csproj.AssemblyReference.cache
+C:\Users\Origin Systems\RiderProjects\start-from-command\start-from-command\obj\Debug\start_from_command.Properties.Resources.resources
+C:\Users\Origin Systems\RiderProjects\start-from-command\start-from-command\obj\Debug\start-from-command.csproj.GenerateResource.cache
+C:\Users\Origin Systems\RiderProjects\start-from-command\start-from-command\obj\Debug\start-from-command.csproj.CoreCompileInputs.cache
+C:\Users\Origin Systems\RiderProjects\start-from-command\start-from-command\obj\Debug\start_from_command.exe
+C:\Users\Origin Systems\RiderProjects\start-from-command\start-from-command\obj\Debug\start_from_command.pdb
+C:\Users\Origin Systems\RiderProjects\start-from-command\start-from-command\obj\Debug\start_from_command.Form1.resources
+C:\Users\Origin Systems\RiderProjects\start-from-command\start-from-command\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Origin Systems\RiderProjects\start-from-command\start-from-command\obj\Debug\start-from-command.csproj.ResolveComReference.cache
