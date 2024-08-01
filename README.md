@@ -9,6 +9,7 @@
 
 the app will be add to the registry in the paths bellow
 
+
 `
 Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\
 `
