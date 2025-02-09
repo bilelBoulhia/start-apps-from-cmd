@@ -1,8 +1,8 @@
 # start apps from cmd 
 
 ## a simple winform app that lets use start apps from cmd
-
-### to run the app just clone it and run it and follow these steps below
+## to install clone the repo and click on the sln ( must have vs or raider  installed )
+### to use the app
 
 + select your app ( must end with .exe)
 + click add
